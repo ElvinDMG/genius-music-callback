@@ -11,3 +11,7 @@ This application allows users to search for top charting songs by a specific tim
 - Optional genre filtering.
 - Error handling for API requests.
 
+##Issues 
+
+
+
